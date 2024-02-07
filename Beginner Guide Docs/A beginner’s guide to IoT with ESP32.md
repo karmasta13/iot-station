@@ -55,8 +55,11 @@ ESP32 is a microcontroller from Espressif Systems that combines the features of 
 6. **Wheels and Chassis:** Physical components for your car's structure.
 7. **Battery Pack:** A power source for the motors, ensuring mobility.
 8. **Remote Control (Optional):** If you want to control the car remotely, a simple RF or IR remote control module can be added.
+9. <b> [Battery Holder](https://www.daraz.com.np/products/battery-case-holder-for-2-x-18650-cell-37v-box-black-plastic-storage-box-i105455279-s1027172343.html?spm=a2a0e.searchlist.sku.12.64954032rmhviD&search=1)</b>This will help you to hold your batteries
+10. <b>[L298N Motor Driver Module](https://www.daraz.com.np/products/l298-motor-driver-module-i124621071-s1033842633.html?spm=a2a0e.searchlist.sku.1.193d1d41bG2vO9&search=1) </b>: This L298N Motor Driver Module is a high power motor driver module for driving DC and Stepper Motors. This module consists of an L298 motor driver IC and a 78M05 5V regulator
+11. [Rechargeable Cell 3.7V 2200mAh](https://www.daraz.com.np/products/rechargeable-cell-37v-2200mah-i103700950-s1024402690.html?spm=a2a0e.searchlist.sku.12.2c353bfb4EOtAf&search=1)
 
-PS: **Motor Smart Robot Car Chassis Set can be bought from [Supreme Light Technology](https://maps.app.goo.gl/aZk16LLR5g8wJSJt9)**
+PS: **Motor Smart Robot Car Chassis Set can be bought from [Supreme Light Technology](https://maps.app.goo.gl/aZk16LLR5g8wJSJt9) or [2 wheel Smart Car Kit](https://www.daraz.com.np/products/2-wheel-smart-car-kit-i125602413-s1034059895.html?spm=a2a0e.searchlist.sku.4.64cd12cdjz4SyN&search=1)**
 
 ---
 
